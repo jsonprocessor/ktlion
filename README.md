@@ -1,2 +1,2 @@
-# ktlion
-Kommand Text Line Interface Object Notation
+# ktlion processor
+Kommand Text Line Interface Object Notation processor
